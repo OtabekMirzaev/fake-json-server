@@ -27,5 +27,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "login": {
+    "email": "test@email.com",
+    "password": "let's play ghost of tsushima"
   }
 }
