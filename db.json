@@ -31,5 +31,6 @@
   "login": {
     "email": "test@email.com",
     "password": "let's play ghost of tsushima"
-  }
+  },
+  "line":{"shape":[{"dx":206.25,"dy":255.0},{"dx":618.75,"dy":255.0}],"status":"DrawableStatus.active","activeColor":"MaterialColor(primary value: Color(0xfff44336))","disabledColor":"MaterialColor(primary value: Color(0xff9e9e9e))","paint":{"color":"Color(0xfff44336)","strokeWidth":0.0}}
 }
